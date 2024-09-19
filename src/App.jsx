@@ -1,5 +1,5 @@
 import About from "./sections/About"
-import Clients from "./sections/clients"
+import Clients from "./sections/Clients"
 import Contact from "./sections/Contact"
 import WorkExperience from "./sections/Experience"
 import Footer from "./sections/Footer"
